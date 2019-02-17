@@ -24,4 +24,4 @@ resolver:
 # graphql. These normally come from the db or a remote api.
 models:
   Todo:
-    model: github.com/dknoma/gqltest/models.Todo
+    model: github.com/dknoma/gqltest/models.Todo # Location of the model
